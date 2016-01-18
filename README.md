@@ -1,4 +1,4 @@
-# 한양대학교 ERICA 2015 동계 창업 캠프 with HIST
+# 한양대학교 ERICA 2015 동계 창업 캠프 with HKIST
 
 SMaSH 창업 캠프 기간 동안은 1학년 팀은 본 Git을 사용하는 것을 원칙으로 합니다.
 
